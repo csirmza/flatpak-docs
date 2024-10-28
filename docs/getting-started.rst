@@ -16,3 +16,24 @@ provides `instructions for how to do this with a range of distributions
    basic-concepts
    using-flatpak
    first-build
+
+
+Empezando
+==========
+
+Esta sección incluye una introducción a los conceptos básicos de Flatpak, una guía sobre
+cómo usar la interfaz de línea de comandos de Flatpak y un tutorial para construir
+una aplicación sencilla.
+
+Para completar esta sección, Flatpak debería haber sido instalado y
+el repositorio Flathub debería haber estado habilitado. El sitio web de Flatpak
+proporciona `instrucciones sobre cómo hacer esto con una variedad de distribuciones.
+<https://flatpak.org/setup/>`_.
+
+.. toctree::
+   : profundidad máxima: 2
+
+   conceptos-básicos
+   usando-flatpak
+   primera construcción
+
